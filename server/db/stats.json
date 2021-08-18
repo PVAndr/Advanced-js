@@ -1,0 +1,452 @@
+[
+    {
+        "time": "30 Jan 2020, 7:54:11 pm",
+        "action": "change"
+    },
+    {
+        "time": "30 Jan 2020, 7:54:15 pm",
+        "action": "change"
+    },
+    {
+        "time": "30 Jan 2020, 7:54:20 pm",
+        "action": "change"
+    },
+    {
+        "time": "30 Jan 2020, 7:54:21 pm",
+        "prod_name": "Мышка",
+        "action": "add"
+    },
+    {
+        "time": "30 Jan 2020, 7:54:22 pm",
+        "action": "remove"
+    },
+    {
+        "time": "30 Jan 2020, 7:54:22 pm",
+        "action": "remove"
+    },
+    {
+        "time": "30 Jan 2020, 8:06:14 pm",
+        "action": "change"
+    },
+    {
+        "time": "30 Jan 2020, 8:06:16 pm",
+        "action": "change"
+    },
+    {
+        "time": "30 Jan 2020, 8:06:17 pm",
+        "action": "remove"
+    },
+    {
+        "time": "30 Jan 2020, 8:06:18 pm",
+        "action": "remove"
+    },
+    {
+        "time": "30 Jan 2020, 8:06:21 pm",
+        "prod_name": "Ноутбук",
+        "action": "add"
+    },
+    {
+        "time": "30 Jan 2020, 8:06:21 pm",
+        "prod_name": "Gamepad",
+        "action": "add"
+    },
+    {
+        "time": "30 Jan 2020, 8:06:22 pm",
+        "prod_name": "Keyboard",
+        "action": "add"
+    },
+    {
+        "time": "30 Jan 2020, 8:06:23 pm",
+        "action": "change"
+    },
+    {
+        "time": "12 Aug 2021, 10:38:21 pm",
+        "prod_name": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "12 Aug 2021, 10:38:21 pm",
+        "prod_name": "Ноутбук",
+        "action": "remove"
+    },
+    {
+        "time": "12 Aug 2021, 10:38:22 pm",
+        "prod_name": "Gamepad",
+        "action": "remove"
+    },
+    {
+        "time": "12 Aug 2021, 10:38:22 pm",
+        "prod_name": "Keyboard",
+        "action": "remove"
+    },
+    {
+        "time": "12 Aug 2021, 10:38:23 pm",
+        "prod_name": "Ноутбук",
+        "action": "add"
+    },
+    {
+        "time": "12 Aug 2021, 10:38:24 pm",
+        "prod_name": "Gamepad",
+        "action": "add"
+    },
+    {
+        "time": "12 Aug 2021, 10:38:24 pm",
+        "prod_name": "Gamepad",
+        "action": "change"
+    },
+    {
+        "time": "12 Aug 2021, 10:38:26 pm",
+        "prod_name": "Ноутбук",
+        "action": "remove"
+    },
+    {
+        "time": "12 Aug 2021, 10:38:26 pm",
+        "prod_name": "Gamepad",
+        "action": "change"
+    },
+    {
+        "time": "12 Aug 2021, 10:38:26 pm",
+        "prod_name": "Gamepad",
+        "action": "remove"
+    },
+    {
+        "time": "18 Aug 2021, 12:59:02 pm",
+        "prod_name": "Ноутбук",
+        "action": "add"
+    },
+    {
+        "time": "18 Aug 2021, 12:59:02 pm",
+        "prod_name": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "18 Aug 2021, 12:59:03 pm",
+        "prod_name": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "18 Aug 2021, 12:59:03 pm",
+        "prod_name": "Мышка",
+        "action": "add"
+    },
+    {
+        "time": "18 Aug 2021, 12:59:04 pm",
+        "prod_name": "Gamepad",
+        "action": "add"
+    },
+    {
+        "time": "18 Aug 2021, 12:59:08 pm",
+        "prod_name": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "18 Aug 2021, 12:59:10 pm",
+        "prod_name": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "18 Aug 2021, 12:59:10 pm",
+        "prod_name": "Ноутбук",
+        "action": "remove"
+    },
+    {
+        "time": "18 Aug 2021, 12:59:17 pm",
+        "prod_name": "Gamepad",
+        "action": "remove"
+    },
+    {
+        "time": "18 Aug 2021, 12:59:18 pm",
+        "prod_name": "Мышка",
+        "action": "remove"
+    },
+    {
+        "time": "18 Aug 2021, 12:59:20 pm",
+        "prod_name": "Мышка",
+        "action": "add"
+    },
+    {
+        "time": "18 Aug 2021, 12:59:20 pm",
+        "prod_name": "Мышка",
+        "action": "change"
+    },
+    {
+        "time": "18 Aug 2021, 12:59:20 pm",
+        "prod_name": "Мышка",
+        "action": "change"
+    },
+    {
+        "time": "18 Aug 2021, 12:59:21 pm",
+        "prod_name": "Мышка",
+        "action": "change"
+    },
+    {
+        "time": "18 Aug 2021, 12:59:21 pm",
+        "prod_name": "Мышка",
+        "action": "change"
+    },
+    {
+        "time": "18 Aug 2021, 12:59:21 pm",
+        "prod_name": "Мышка",
+        "action": "change"
+    },
+    {
+        "time": "18 Aug 2021, 12:59:21 pm",
+        "prod_name": "Мышка",
+        "action": "change"
+    },
+    {
+        "time": "18 Aug 2021, 12:59:21 pm",
+        "prod_name": "Мышка",
+        "action": "change"
+    },
+    {
+        "time": "18 Aug 2021, 12:59:23 pm",
+        "prod_name": "Ноутбук",
+        "action": "add"
+    },
+    {
+        "time": "18 Aug 2021, 12:59:24 pm",
+        "prod_name": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "18 Aug 2021, 12:59:24 pm",
+        "prod_name": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "18 Aug 2021, 12:59:24 pm",
+        "prod_name": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "18 Aug 2021, 12:59:24 pm",
+        "prod_name": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "18 Aug 2021, 12:59:24 pm",
+        "prod_name": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "18 Aug 2021, 12:59:26 pm",
+        "prod_name": "Мышка",
+        "action": "change"
+    },
+    {
+        "time": "18 Aug 2021, 12:59:26 pm",
+        "prod_name": "Мышка",
+        "action": "change"
+    },
+    {
+        "time": "18 Aug 2021, 12:59:27 pm",
+        "prod_name": "Мышка",
+        "action": "change"
+    },
+    {
+        "time": "18 Aug 2021, 12:59:27 pm",
+        "prod_name": "Мышка",
+        "action": "change"
+    },
+    {
+        "time": "18 Aug 2021, 12:59:41 pm",
+        "prod_name": "Мышка",
+        "action": "change"
+    },
+    {
+        "time": "18 Aug 2021, 12:59:42 pm",
+        "prod_name": "Мышка",
+        "action": "change"
+    },
+    {
+        "time": "18 Aug 2021, 12:59:43 pm",
+        "prod_name": "Мышка",
+        "action": "change"
+    },
+    {
+        "time": "18 Aug 2021, 12:59:43 pm",
+        "prod_name": "Мышка",
+        "action": "remove"
+    },
+    {
+        "time": "18 Aug 2021, 12:59:44 pm",
+        "prod_name": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "18 Aug 2021, 12:59:44 pm",
+        "prod_name": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "18 Aug 2021, 12:59:44 pm",
+        "prod_name": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "18 Aug 2021, 12:59:44 pm",
+        "prod_name": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "18 Aug 2021, 12:59:45 pm",
+        "prod_name": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "18 Aug 2021, 12:59:45 pm",
+        "prod_name": "Ноутбук",
+        "action": "remove"
+    },
+    {
+        "time": "18 Aug 2021, 1:37:42 pm",
+        "prod_name": "Ноутбук",
+        "action": "add"
+    },
+    {
+        "time": "18 Aug 2021, 1:37:43 pm",
+        "prod_name": "Мышка",
+        "action": "add"
+    },
+    {
+        "time": "18 Aug 2021, 1:37:44 pm",
+        "prod_name": "Ноутбук",
+        "action": "remove"
+    },
+    {
+        "time": "18 Aug 2021, 1:37:44 pm",
+        "prod_name": "Мышка",
+        "action": "remove"
+    },
+    {
+        "time": "18 Aug 2021, 1:46:04 pm",
+        "prod_name": "Мышка",
+        "action": "add"
+    },
+    {
+        "time": "18 Aug 2021, 1:46:08 pm",
+        "prod_name": "Мышка",
+        "action": "remove"
+    },
+    {
+        "time": "18 Aug 2021, 1:57:04 pm",
+        "prod_name": "Мышка",
+        "action": "add"
+    },
+    {
+        "time": "18 Aug 2021, 1:57:10 pm",
+        "prod_name": "Мышка",
+        "action": "remove"
+    },
+    {
+        "time": "18 Aug 2021, 1:57:12 pm",
+        "prod_name": "Мышка",
+        "action": "add"
+    },
+    {
+        "time": "18 Aug 2021, 1:57:13 pm",
+        "prod_name": "Мышка",
+        "action": "remove"
+    },
+    {
+        "time": "18 Aug 2021, 1:59:56 pm",
+        "prod_name": "Ноутбук",
+        "action": "add"
+    },
+    {
+        "time": "18 Aug 2021, 1:59:57 pm",
+        "prod_name": "Мышка",
+        "action": "add"
+    },
+    {
+        "time": "18 Aug 2021, 2:00:01 pm",
+        "prod_name": "Ноутбук",
+        "action": "remove"
+    },
+    {
+        "time": "18 Aug 2021, 2:00:03 pm",
+        "prod_name": "Мышка",
+        "action": "remove"
+    },
+    {
+        "time": "18 Aug 2021, 2:01:49 pm",
+        "prod_name": "Геймпад",
+        "action": "add"
+    },
+    {
+        "time": "18 Aug 2021, 2:01:50 pm",
+        "prod_name": "Ноутбук",
+        "action": "add"
+    },
+    {
+        "time": "18 Aug 2021, 2:01:51 pm",
+        "prod_name": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "18 Aug 2021, 2:01:51 pm",
+        "prod_name": "Мышка",
+        "action": "add"
+    },
+    {
+        "time": "18 Aug 2021, 2:01:56 pm",
+        "prod_name": "Мышка",
+        "action": "change"
+    },
+    {
+        "time": "18 Aug 2021, 2:01:57 pm",
+        "prod_name": "Мышка",
+        "action": "change"
+    },
+    {
+        "time": "18 Aug 2021, 2:01:57 pm",
+        "prod_name": "Мышка",
+        "action": "change"
+    },
+    {
+        "time": "18 Aug 2021, 2:01:58 pm",
+        "prod_name": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "18 Aug 2021, 2:02:02 pm",
+        "prod_name": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "18 Aug 2021, 2:02:03 pm",
+        "prod_name": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "18 Aug 2021, 2:02:03 pm",
+        "prod_name": "Ноутбук",
+        "action": "remove"
+    },
+    {
+        "time": "18 Aug 2021, 2:02:04 pm",
+        "prod_name": "Геймпад",
+        "action": "remove"
+    },
+    {
+        "time": "18 Aug 2021, 2:02:05 pm",
+        "prod_name": "Мышка",
+        "action": "change"
+    },
+    {
+        "time": "18 Aug 2021, 2:02:05 pm",
+        "prod_name": "Мышка",
+        "action": "change"
+    },
+    {
+        "time": "18 Aug 2021, 2:02:05 pm",
+        "prod_name": "Мышка",
+        "action": "change"
+    },
+    {
+        "time": "18 Aug 2021, 2:02:05 pm",
+        "prod_name": "Мышка",
+        "action": "remove"
+    }
+]
